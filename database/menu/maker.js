@@ -14,12 +14,7 @@ Jika tidak paham ketik *${prefix}bingungcok*
 ┏━━━━━━━━━━━━━━━━━━━━┓
 ┃╭───────────────────
 ┃│➸ *${prefix}hartatahta*
-┃│➸ *${prefix}pornhub*
-┃│➸ *${prefix}halloweentext*
-┃│➸ *${prefix}ninjalogo*
-┃│➸ *${prefix}cloudtext*
 ┃│➸ *${prefix}gemboktext*
-┃│➸ *${prefix}glitchtext*
 ┃│➸ *${prefix}silktext*
 ┃╰───────────────────
 ┗━━━━━━━━━━━━━━━━━━━━┛

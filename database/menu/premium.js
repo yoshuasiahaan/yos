@@ -1,5 +1,5 @@
-const other = (pushname, prefix, botName, ownerName, getLevelingLevel, sender, _registered) => {
-	return `🔰 -----[ *OTHER MENU* ]----- 🔰
+const vip = (pushname, prefix, botName, ownerName, getLevelingLevel, sender, _registered) => {
+	return `🔰 -----[ *PREMIUM MENU* ]----- 🔰
 Hallo, ${pushname} 👋
 Semoga harimu Menyenangkan User, ${sender.split("@")[0]}
 ┏━━━━━━━━━━━━━━━━━━━━┓
@@ -12,15 +12,32 @@ Semoga harimu Menyenangkan User, ${sender.split("@")[0]}
 Berikut adalah fitur yang ada pada bot ini!✨
 ┏━━━━━━━━━━━━━━━━━━━━┓
 ┃╭───────────────────
-┃│➸ *${prefix}brainly*
-┃│➸ *${prefix}pinterest*
-┃│➸ *${prefix}resepmakanan*
-┃│➸ *${prefix}beritahoax*
-┃│➸ *${prefix}timer*
+┃│➸ *${prefix}premiumlist*
+┃│➸ *${prefix}randomhentong*
+┃│➸ *${prefix}bokep*
+┃│➸ *${prefix}blowjob*
 ┃│➸ *${prefix}nulis1*
 ┃│➸ *${prefix}nulis2*
+┃│➸ *${prefix}mutual*
+┃│➸ *${prefix}next*
+┃│➸ *${prefix}nangis*
+┃│➸ *${prefix}cium*
+┃│➸ *${prefix}peluk*
+┃│➸ *${prefix}tiktod*
+┃│➸ *${prefix}yutubdl*
+┃│➸ *${prefix}hidetag5*
+┃│➸ *${prefix}hidetag10*
+┃│➸ *${prefix}moddroid*
+┃│➸ *${prefix}happymod*
+┃│➸ *${prefix}ninjalogo*
+┃│➸ *${prefix}halloweentext*
+┃│➸ *${prefix}pornhub*
+┃│➸ *${prefix}glitchtext*
+┃│➸ *${prefix}blackpink*
+┃│➸ *${prefix}cloudtext*
+┃│➸ *${prefix}neontext*
 ┃╰───────────────────
 ┗━━━━━━━━━━━━━━━━━━━━┛
 🔰 -----[ *POWERED BY ${ownerName}* ]----- 🔰`
 }
-exports.other = other
+exports.vip = vip

@@ -13,12 +13,12 @@ Berikut adalah fitur yang ada pada bot ini!✨
 Jika tidak paham ketik *${prefix}bingungcok*
 ┏━━━━━━━━━━━━━━━━━━━━┓
 ┃╭───────────────────
-┃│➸ *${prefix}welcome* ⟪ 1/0 ⟫
-┃│➸ *${prefix}leveling* ⟪ 1/0 ⟫
-┃│➸ *${prefix}event* ⟪ 1/0 ⟫
-┃│➸ *${prefix}simih* ⟪ 1/0 ⟫
-┃│➸ *${prefix}nsfw* ⟪ 1/0 ⟫
-┃│➸ *${prefix}grup* ⟪ buka/tutup ⟫
+┃│➸ *${prefix}welcome* 「1/0」
+┃│➸ *${prefix}leveling* 「1/0」
+┃│➸ *${prefix}simih* 「1/0」
+┃│➸ *${prefix}nsfw* 「1/0」
+┃│➸ *${prefix}antilinkgrup* 「1/0」
+┃│➸ *${prefix}grup* 「buka/tutup」
 ┃│➸ *${prefix}add*
 ┃│➸ *${prefix}kick*
 ┃│➸ *${prefix}hedsot*
@@ -33,7 +33,6 @@ Jika tidak paham ketik *${prefix}bingungcok*
 ┃│➸ *${prefix}level*
 ┃│➸ *${prefix}fitnah*
 ┃│➸ *${prefix}hidetag*
-┃│➸ *${prefix}hidetag5*
 ┃╰───────────────────
 ┗━━━━━━━━━━━━━━━━━━━━┛
 🔰 -----[ *POWERED BY ${ownerName}* ]----- 🔰`

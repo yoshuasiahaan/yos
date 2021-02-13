@@ -18,11 +18,10 @@ Berikut adalah fitur yang ada pada bot ini!✨
 ┃│➸ *${prefix}hobby*
 ┃│➸ *${prefix}rate*
 ┃│➸ *${prefix}seberapagay*
-┃│➸ *${prefix}nangis*
-┃│➸ *${prefix}cium*
-┃│➸ *${prefix}peluk*
 ┃│➸ *${prefix}truth*
 ┃│➸ *${prefix}dare*
+┃│➸ *${prefix}tebakin*
+┃│➸ *${prefix}caklontong*
 ┃│➸ *${prefix}timer*
 ┃│➸ *${prefix}simi*
 ┃╰───────────────────

@@ -21,8 +21,11 @@ Berikut adalah fitur yang ada pada bot ini!✨
 ┃│➸ *${prefix}setppbot*
 ┃│➸ *${prefix}setreply*
 ┃│➸ *${prefix}setprefix*
+┃│➸ *${prefix}addprem*
+┃│➸ *${prefix}dellprem*
 ┃│➸ *${prefix}ban*
 ┃│➸ *${prefix}unban*
+┃│➸ *${prefix}event* 「1/0」
 ┃╰───────────────────
 ┗━━━━━━━━━━━━━━━━━━━━┛
 🔰 -----[ *POWERED BY ${ownerName}* ]----- 🔰`
