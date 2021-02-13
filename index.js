@@ -79,7 +79,7 @@ const _limit = JSON.parse(fs.readFileSync('./database/user/limit.json'))
 const uang = JSON.parse(fs.readFileSync('./database/user/uang.json'))
 const ban = JSON.parse(fs.readFileSync('./database/user/banned.json'))
 const premium = JSON.parse(fs.readFileSync('./database/user/premium.json'))
-
+const antilink = JSON.parse(fs.readFileSync('./database/group/antilink.json'))
 /*       
 ]=====> LOAD MENU <=====[
 */
