@@ -30,6 +30,10 @@ exports.baned = () => {
 	return`*「❗」SORRY SORRY AJA NIH BRO, TAPI KAU SUDAH KU BANNED YAHAHAHA HAYUUU :V*`
 }
 
+exports.premium = () => {
+	return`*「❗」Maaf Kamu Bukan User Premium ! hubungi owner untuk jadi premium ketik ${prefix}owner*`
+}
+
 exports.rediregis = () => {
 	return`*「 SUDAH DAFTAR 」*\n\n*kamu sudah terdaftar kak >_<*`
 }
