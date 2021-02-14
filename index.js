@@ -1226,7 +1226,7 @@ case 'neontext':
 if (args.length < 1) return reply(`「❗」Contoh : ${prefix}neontext Ramlan`)
 neon = body.slice(10)
 reply('「❗」WAIT GANS')
-anu = await getBuffer(`https://api.xteam.xyz/textpro/neon?text=Xteam&APIKEY=${XteamKey}`)
+anu = await getBuffer(`https://api.xteam.xyz/textpro/neon?text=$APIKEY=${XteamKey}`)
 baby.sendMessage(from, anu, image, {quoted: mek})
 break					
            case 'seberapagay':
