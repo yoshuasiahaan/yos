@@ -925,9 +925,9 @@ switch(command) {
 					no = 0
 					for (let prem of premium) {
 						no += 1
-						teks += `[${no.toString()}] @${prem.split('@')[0]}\n`
+						teks += `│「${no.toString()}」 @${prem.split('@')[0]}\n`
 					}
-					teks += `│+ Jumlah User Premium : ${premium.length}\n╰──────「 *${botName}* 」────`
+					teks += `│ Jumlah User Premium : ${premium.length}\n╰──────「 *${botName}* 」`
 					baby.sendMessage(from, teks.trim(), extendedText, {quoted: mek, contextInfo: {"mentionedJid": premium}})
 					break
 				case 'bokep':
@@ -1384,7 +1384,7 @@ break
 						reply('「SUKSES」MENGAKTIFKAN ANTI LINK DI GROUP')
 						baby.sendMessage(from,`ALLERT!!! Jika bukan admin jangan kirim link grup`, text)
 					} else if (Number(args[0]) === 0) {
-						if (!isantilink) return reply('EMANG AKTIF?')
+						if (!isAntiLink) return reply('EMANG AKTIF?')
 						var ini = anti.botLangsexOf(from)
 						antilink.splice(ini, 1)
 						fs.writeFileSync('./database/group/antilink.json', JSON.stringify(antilink))
