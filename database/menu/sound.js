@@ -24,6 +24,6 @@ Berikut adalah fitur yang ada pada bot ini!✨
 ┃│➸ *${prefix}sound7*
 ┃╰───────────────────
 ┗━━━━━━━━━━━━━━━━━━━━┛
-🔰 -----[ *POWERED BY ${ownerName}* ]----- 🔰`
+🔰 -----[ *POWERED BY ${YOSHOBOT}* ]----- 🔰`
 }
 exports.sound = sound
