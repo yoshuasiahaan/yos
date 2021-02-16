@@ -23,6 +23,6 @@ Jika tidak paham ketik *${prefix}bingungcok*
 ┃│➸ *${prefix}bikinquote*
 ┃╰───────────────────
 ┗━━━━━━━━━━━━━━━━━━━━┛
-🔰 -----[ *POWERED BY ${ownerName}* ]----- 🔰`
+🔰 -----[ *POWERED BY ${YOSHOBOT}* ]----- 🔰`
 }
 exports.simple = simple
