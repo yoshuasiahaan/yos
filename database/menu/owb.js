@@ -28,6 +28,6 @@ Berikut adalah fitur yang ada pada bot ini!✨
 ┃│➸ *${prefix}event* 「1/0」
 ┃╰───────────────────
 ┗━━━━━━━━━━━━━━━━━━━━┛
-🔰 -----[ *POWERED BY ${ownerName}* ]----- 🔰`
+🔰 -----[ *POWERED BY ${YOSHOBOT}* ]----- 🔰`
 }
 exports.owb = owb
