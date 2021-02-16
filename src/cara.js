@@ -39,7 +39,7 @@ Gacha nomor yang ada di database / yang menggunakan bot
          ────────────────
 Note : Sisanya gunain otak kalian aja cape w jelasin :)
          ────────────────
-🔰 -----[ *TUMTOR BY RAMLAN ID* ]----- 🔰
+🔰 -----[ *TUMTOR BY YOSHUA YOS* ]----- 🔰
 `
 }
 
