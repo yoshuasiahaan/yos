@@ -16,6 +16,6 @@ Jika tidak paham ketik *${prefix}bingungcok*
 ┃│➸ *${prefix}play*
 ┃╰───────────────────
 ┗━━━━━━━━━━━━━━━━━━━━┛
-🔰 -----[ *POWERED BY ${ownerName}* ]----- 🔰`
+🔰 -----[ *POWERED BY ${YOSHOBOT}* ]----- 🔰`
 }
 exports.download = download
