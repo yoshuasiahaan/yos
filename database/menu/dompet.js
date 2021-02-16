@@ -18,6 +18,6 @@ Berikut adalah fitur yang ada pada bot ini!✨
 ┃│➸ *${prefix}buylimit*
 ┃╰───────────────────
 ┗━━━━━━━━━━━━━━━━━━━━┛
-🔰 -----[ *POWERED BY ${Yoshua Yos}* ]----- 🔰`
+🔰 -----[ *POWERED BY ${YOSHOBOT}* ]----- 🔰`
 }
 exports.dompet = dompet
