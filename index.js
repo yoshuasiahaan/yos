@@ -1941,7 +1941,7 @@ break
 					delp = premium.indexOf(oh)
 					premium.splice(delp, 1)
 					fs.writeFileSync('./database/user/premium.json', JSON.stringify(premium))
-					reply(`Berhasil Menghapus ${delp} Dari Daftar Premium`)
+					reply(`Berhasil Menghapus ${oh} Dari Daftar Premium`)
 					break					
 				case 'bc':
 					baby.updatePresence(from, Presence.composing) 
