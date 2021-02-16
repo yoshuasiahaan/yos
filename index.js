@@ -1322,12 +1322,12 @@ break
                 if (!isGroup) return reply(ind.groupo())
                 if (!isGroupAdmins) return reply(ind.admin())
                 if (args.length < 1) return reply('Ekhemm >_<')
-                if (args[0] === 1) {
+                if (args[0] === '1') {
                     if (isLevelingOn) return reply('*fitur level sudah aktif sebelum nya*')
                     _leveling.push(from)
                     fs.writeFileSync('./database/group/leveling.json', JSON.stringify(_leveling))
                      reply(ind.lvlon())
-                } else if (args[0] === 0) {
+                } else if (args[0] === '0') {
                     _leveling.splice(from, 1)
                     fs.writeFileSync('./database/group/leveling.json', JSON.stringify(_leveling))
                      reply(ind.lvloff())
