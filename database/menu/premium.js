@@ -38,6 +38,6 @@ Berikut adalah fitur yang ada pada bot ini!✨
 ┃│➸ *${prefix}neontext*
 ┃╰───────────────────
 ┗━━━━━━━━━━━━━━━━━━━━┛
-🔰 -----[ *POWERED BY ${ownerName}* ]----- 🔰`
+🔰 -----[ *POWERED BY ${YOSHOBOT}* ]----- 🔰`
 }
 exports.vip = vip
