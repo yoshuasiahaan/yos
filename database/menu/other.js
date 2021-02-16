@@ -21,6 +21,6 @@ Berikut adalah fitur yang ada pada bot ini!✨
 ┃│➸ *${prefix}nulis2*
 ┃╰───────────────────
 ┗━━━━━━━━━━━━━━━━━━━━┛
-🔰 -----[ *POWERED BY ${ownerName}* ]----- 🔰`
+🔰 -----[ *POWERED BY ${YOSHOBOT}* ]----- 🔰`
 }
 exports.other = other
