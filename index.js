@@ -1933,14 +1933,15 @@ break
 					addp = body.slice(10)
 					premium.push(`${addp}@s.whatsapp.net`)
 					fs.writeFileSync('./database/user/premium.json', JSON.stringify(premium))
-					reply(`Berhasil Menambahkan wa.me/${addp} Ke Daftar Premium`)
+					reply(`Berhasil Menambahkan ${addp} Ke Daftar Premium`)
 					break
 				case 'dellprem':
 					if (!isOwner) return reply(ind.ownerb())
-					delp = body.slice(11)
-					premium.splice(`${delp}@s.whatsapp.net`, 1)
+					oh = body.slice(11)
+					delp = premium.indexOf(oh)
+					premium.splice(delp, 1)
 					fs.writeFileSync('./database/user/premium.json', JSON.stringify(premium))
-					reply(`Berhasil Menghapus wa.me/${delp} Dari Daftar Premium`)
+					reply(`Berhasil Menghapus ${delp} Dari Daftar Premium`)
 					break					
 				case 'bc':
 					baby.updatePresence(from, Presence.composing) 
@@ -2043,19 +2044,20 @@ break
 					}
 					await limitAdd(sender)
 					break
-                case 'ban':
+			                case 'ban':
 					if (!isOwner) return reply(ind.ownerb())
 					bnnd = body.slice(6)
 					ban.push(`${bnnd}@s.whatsapp.net`)
 					fs.writeFileSync('./database/user/banned.json', JSON.stringify(ban))
-					reply(`Nomor wa.me/${bnnd} telah dibanned !`)
+					reply(`Nomor ${bnnd} telah dibanned!`)
 					break
 				case 'unban':
 					if (!isOwner) return reply(ind.ownerb())
-					bnnd = body.slice(8)
-					ban.splice(`${bnnd}@s.whatsapp.net`, 1)
+					ya = body.slice(8)
+					unb = ban.indexOf(ya)
+					ban.splice(unb, 1)
 					fs.writeFileSync('./database/user/banned.json', JSON.stringify(ban))
-					reply(`Nomor wa.me/${bnnd} telah di unban!`)
+					reply(`Nomor ${ya} telah di unban!`)
 					break
 case 'iri':
 const irimp3 = fs.readFileSync('./assets/iri.mp3');
