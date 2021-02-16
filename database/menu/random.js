@@ -24,6 +24,6 @@ Berikut adalah fitur yang ada pada bot ini!✨
 ┃│➸ *${prefix}darkjokes*
 ┃╰───────────────────
 ┗━━━━━━━━━━━━━━━━━━━━┛
-🔰 -----[ *POWERED BY ${ownerName}* ]----- 🔰`
+🔰 -----[ *POWERED BY ${YOSHOBOT}* ]----- 🔰`
 }
 exports.random = random
