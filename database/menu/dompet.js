@@ -1,5 +1,5 @@
 const dompet = (pushname, prefix, botName, ownerName, getLevelingLevel, sender, _registered) => {
-	return `🔰 -----[ *DOMPET MENU* ]----- 🔰
+	return `🔰 -----[ *DOMPETKU MENU* ]----- 🔰
 Hallo, ${pushname} 👋
 Semoga harimu Menyenangkan User, ${sender.split("@")[0]}
 ┏━━━━━━━━━━━━━━━━━━━━┓
@@ -18,6 +18,6 @@ Berikut adalah fitur yang ada pada bot ini!✨
 ┃│➸ *${prefix}buylimit*
 ┃╰───────────────────
 ┗━━━━━━━━━━━━━━━━━━━━┛
-🔰 -----[ *POWERED BY ${YOSHOBOT}* ]----- 🔰`
+🔰 -----[ *POWERED BY ${ownerName}* ]----- 🔰`
 }
 exports.dompet = dompet
