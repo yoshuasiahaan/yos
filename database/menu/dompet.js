@@ -1,5 +1,5 @@
 const dompet = (pushname, prefix, botName, ownerName, getLevelingLevel, sender, _registered) => {
-	return `🔰 -----[ *YOSHOBOT MENU* ]----- 🔰
+	return `🔰 -----[ *DOMPET MENU* ]----- 🔰
 Hallo, ${pushname} 👋
 Semoga harimu Menyenangkan User, ${sender.split("@")[0]}
 ┏━━━━━━━━━━━━━━━━━━━━┓
