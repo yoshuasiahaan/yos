@@ -35,6 +35,6 @@ Jika tidak paham ketik *${prefix}bingungcok*
 ┃│➸ *${prefix}hidetag*
 ┃╰───────────────────
 ┗━━━━━━━━━━━━━━━━━━━━┛
-🔰 -----[ *POWERED BY ${ownerName}* ]----- 🔰`
+🔰 -----[ *POWERED BY ${YOSHOBOT}* ]----- 🔰`
 }
 exports.groupm = groupm
