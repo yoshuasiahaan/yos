@@ -26,6 +26,6 @@ Berikut adalah fitur yang ada pada bot ini!✨
 ┃│➸ *${prefix}simi*
 ┃╰───────────────────
 ┗━━━━━━━━━━━━━━━━━━━━┛
-🔰 -----[ *POWERED BY ${ownerName}* ]----- 🔰`
+🔰 -----[ *POWERED BY ${YOSHOBOT}* ]----- 🔰`
 }
 exports.gabut = gabut
